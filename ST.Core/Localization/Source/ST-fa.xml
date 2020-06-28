@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localizationDictionary culture="fa">
+  <texts>
+	  <text name="ContactUS" value="ارتباط با ما" />
+	  <text name="Blog" value="مقالات" />
+	  <text name="Certificate" value="گواهینامه ها" />
+	  <text name="Product" value="محصولات" />
+	  <text name="ProductCategory" value="طبقات" />
+	  <text name="HomePage" value="داشبورد" />
+    <text name="About" value="دریاره ما" />
+    <text name="WellcomeMessage" value="بازرگانی صابری زاده" />
+    
+    <text name="FormIsNotValidMessage" value="مشکل در اعتبار سنجی لطفا خطاها را بررسی نمائید." />
+    <text name="TenantNameCanNotBeEmpty" value="Tenant name can not be empty" />
+
+    <text name="InvalidUserNameOrPassword" value="نام کاربری یا کلمه عبور اشتباه است !!!" />
+    <text name="ThereIsNoTenantDefinedWithName{0}" value="There is no tenant defined with name {0}" />
+    <text name="TenantIsNotActive" value="Tenant {0} is not active." />
+    <text name="UserIsNotActiveAndCanNotLogin" value="نام کابری  {0} به علت غیر فعال بودن امکان ورود را ندارد." />
+    <text name="UserEmailIsNotConfirmedAndCanNotLogin">Your email address is not confirmed. You can not login</text>
+    <text name="UserLockedOutMessage">این نام کابری قفل شده است. لطفا بعدا تلاش  نمائید .</text>
+    <text name="PleaseEnterLoginInformation" value="لطفا مشخصات ورود را وارد نمائید !!!" />
+    <text name="TenancyName" value="Tenancy name" />
+    <text name="UserNameOrEmail" value="نام کابری/ایمیل " />
+    <text name="Password" value="کلمه عبور" />
+    <text name="RememberMe" value="مرا به یاد آر." />
+    <text name="LogIn" value="Log in" />
+
+    <text name="LoginFailed" value="ورود ناموفق!" />
+
+    <text name="NameSurname" value="نام نام خانوادگی" />
+    <text name="UserName" value="نام کابری" />
+    <text name="Name" value="نام" />
+    <text name="Surname" value="نام خانوادگی" />
+    <text name="EmailAddress" value="آدرس الکترونیکی" />
+
+    <text name="Tenants" value="Tenants" />
+    <text name="SavedSuccessfully" value="با موفقیت ذخیره شد" />
+    <text name="CreateNewTenant" value="Create new tenant" />
+    <text name="AdminEmailAddress" value="پست الکترونیکی مدیر" />
+    <text name="Save" value="ذخیره" />
+    <text name="Cancel" value="انصراف" />
+    <text name="TenantName_Regex_Description" value="Tenant name must be at least 2 chars, starts with a letter and continue with letter, number, dash or underscore." />
+    <text name="DefaultPasswordIs" value="کلمه عبور پیش فرض {0}" />
+    <text name="CanBeEmptyToLoginAsHost" value="Can be empty to login as host." />
+    <text name="Register" value="ثبت نام" />
+    <text name="OrLoginWith" value="Or login with" />
+    <text name="WaitingForActivationMessage" value="Your account is waiting to be activated by system admin." />
+    <text name="TenantSelection" value="Tenant Selection" />
+    <text name="TenantSelection_Detail" value="Please select one of the following tenants." />
+    <text name="Logout" value="خروج" />
+
+    <text name="RegisterFormUserNameInvalidMessage">Please dont enter an email address for username.</text>
+
+    <text name="DatabaseConnectionString" value="Database connection string" />
+    <text name="Users" value="کابران" />
+    <text name="IsActive" value="فعال" />
+    <text name="FullName" value="نام کامل" />
+    <text name="CreateNewUser" value="ایجاد نام کابری" />
+    <text name="Yes" value="بلی" />
+    <text name="No" value="خیر" />
+    <text name="Optional" value="اختیاری" />
+    <text name="LeaveEmptyToSwitchToHost">Leave empty to switch to the host</text>
+
+    <text name="CurrentTenant">Current tenant</text>
+    <text name="NotSelected">انتخاب نشده</text>
+    <text name="Change">تغییر</text>
+    <text name="ChangeTenant">Change tenant</text>
+
+    <text name="MultiLevelMenu">منو چند سطحی</text>
+    <text name="Back">برگشت</text>
+    <text name="SuccessfullyRegistered">با موفقیت ثبت گردید</text>
+    <text name="WaitingForEmailActivation">Your email address should be activated</text>
+    <text name="Roles">نقش ها</text>
+
+    <text name="Actions">اقدامات</text>
+    <text name="RoleName">نام نقش</text>
+    <text name="DisplayName">نام نمایشی</text>
+    <text name="CreateNewRole">ایجاد نقش</text>
+    <text name="EditRole">ویرایش نقش</text>
+    <text name="EditUser">ویرایش کاربر</text>
+    <text name="Edit">ویرایش</text>
+    <text name="Delete">حذف</text>
+
+
+  </texts>
+</localizationDictionary>
